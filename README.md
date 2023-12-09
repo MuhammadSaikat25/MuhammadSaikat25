@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/MuhammadSaikat25/MuhammadSaikat25/blob/main/1_cmfc8t3B47BkewhjU8RLuw.png)
 <h1 align="center">Hi 👋, I'm Muhammad Saikat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img aling='right alt='coding img'width='400' src='https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif'>

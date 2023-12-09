@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **smsaikat000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15alL3sYT4rJ2ZmWWNvMpuJ5gn7NEdv8f/view)
 
 - ⚡ Fun fact **I am Funny**
 

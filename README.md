@@ -1,6 +1,5 @@
-![images (1)](https://github.com/user-attachments/assets/e5899f6a-3e30-4b60-a1d7-22242b3aa0a7)
 <h1 align="center">Hi 👋, I'm Muhammad Saikat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
 <img aling='right alt='coding img'width='400' src='https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaikat25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaikat25" /> </p>
 
@@ -8,13 +7,13 @@
 
 - 📫 How to reach me **smsaikat000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15alL3sYT4rJ2ZmWWNvMpuJ5gn7NEdv8f/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f2g8EHkYoLJspTGZ8-PirW0YcjKo-649/view)
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sm saikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm saikat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/MuhammadSaikat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm saikat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

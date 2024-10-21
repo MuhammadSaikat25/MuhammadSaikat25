@@ -1,10 +1,10 @@
-![logo](https://github.com/MuhammadSaikat25/MuhammadSaikat25/blob/main/1_cmfc8t3B47BkewhjU8RLuw.png)
+![images (1)](https://github.com/user-attachments/assets/e5899f6a-3e30-4b60-a1d7-22242b3aa0a7)
 <h1 align="center">Hi 👋, I'm Muhammad Saikat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img aling='right alt='coding img'width='400' src='https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaikat25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaikat25" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-q82v.vercel.app/](https://portfolio-q82v.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-q82v.vercel.app/](https://devportfolio-xi-one.vercel.app/)
 
 - 📫 How to reach me **smsaikat000@gmail.com**
 

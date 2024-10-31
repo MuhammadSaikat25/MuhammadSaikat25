@@ -1,3 +1,16 @@
+```js
+"use Mern Stack Web Developer";
+import { Person } from 'Bangladesh';
+
+new Person({
+    name   : 'Muhammad Saikat',
+    title  : 'Mern Stack Web Developer',
+    email  : 'smsaikat000@gmail.com',
+    website: 'https://devportfolio-xi-one.vercel.app/',
+}).introduce();
+```
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Saikat</h1>
 <h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
 <img aling='right alt='coding img'width='400' src='https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif'>
